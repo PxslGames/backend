@@ -1,1 +1,5 @@
-
+{
+  "servers": 1,
+  "users": 4,
+  "commands": 20
+}
